@@ -1,0 +1,11 @@
+<Header> My Birthday Site</Header> 
+<nav> </nav>
+
+<h1> My Final Web Development Project </h1>
+
+<h2> Celeberties who share my birthday</h2>
+
+<ul>
+	<li><img src="Kaley.jpg"> <p> Kaley Cucco </p></li>
+	<li><img src="BO.jpg"> <p> Bo Jackson </p></li>
+	<li><img src="steve.jpg"> <p>Steve Aoki</p>
