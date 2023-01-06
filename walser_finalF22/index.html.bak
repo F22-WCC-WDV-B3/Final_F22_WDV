@@ -1,0 +1,50 @@
+<!-- Walsers Final HTML doc -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<title></title>
+		<meta charset="utf-8">
+		<link href="styles.css" rel="stylesheet">
+	</head>
+
+	<body>
+		<header>
+			<h1>Walser's Final</h1>
+		</header>
+		
+		<nav>
+			
+		</nav>
+		
+		<main>
+			<h1>My Final Web Development Project</h1>
+			<ul><h3>My Birthday Images</h3>
+				<li><img src="images/churchill.jfif" alt="Winston Churchill" width="300px"><p>Winston Churchill, Prime Minister of Great Britain during WWII, was born November 30</p></li>
+				<li><img src="images/winterwar.jpg" alt="Finnish soldiers in the Winter War" width="300px"><p>The Winter War between the USSR and Finland began November 30<p/></li>
+				<li><img src="images/carolus rex.jpg" alt="Charles the 12th's death" width="300px"><p>Charles XII of Sweden died on November 30</li>
+			</ul>
+			<br>
+			<ol><h3>Numbers</h3>
+				<li>One</li>
+				<li>Two</li>
+				<li>Three</li>
+				<li>Four</li>
+				<li>Five hundred sixty nine quintillion, thirty four quadrillion, six hundred and eighty five trillion, three</li>
+			</ol>
+		</main>
+		
+		<aside>
+			
+		</aside>
+		
+		<footer>
+			
+		</footer>
+	
+	</body>
+
+</html>
+
+
