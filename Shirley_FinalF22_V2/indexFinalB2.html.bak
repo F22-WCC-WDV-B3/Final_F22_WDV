@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!-- Thomas Final Thing -->
+<html lang="en">
+<link href="stylesFinalB2.css" rel="stylesheet">
+<head>
+	<title>A site</title>
+	<meta charset="utf-8">
+</head>
+<div class="wrapper">
+<body>
+		<header>Thomas's Birth Day Site</header>
+		<nav>
+		<a href="">Link 1</a>
+		<a href="">Link 2</a>
+		<a href="">Link 3</a>
+		<a href="">Link 4</a>
+		</nav>
+		<main>My Final Project</main>
+			<!-- unordered list of 3 items -->
+			<h1> Historical Events </h1>
+			<ol>
+				<li>Dunkirk (Operation Dynamo)<br><img src="Images/Dunkirk.JPG" ; id="Dynamo" /></li>
+				<li>Battle of Tsushima<br><img src="Images/JapanVRussia.PNG" ; id="Japan"/></li>
+				<li>Saint Petersburg is founded<br><img src="Images/Saint_Petersburg.JPG" ; id="Peter"/></li>
+				<li>Golden Gate Bridge Opend<br><img src="Images/GoldBridge.WEBP" ; id="Gate"/></li>
+				<li>Bismarck Sunk<br><img src="Images/Bismarck.WEBP" ; id="Bismarck"/></li>
+			</ol>
+			<h1>Share B Day</h1>
+			<ul>
+				<li id="Ibn">Ibn Khaldūn</li>
+				<li id="Golf">Dondré Whitfield</li>
+				<li id="Rail">Cornelius Vanderbilt</li>
+			</ul>
+			<!-- ordered list of 5 item -->
+			<h1>3 Birth Day Things</h1>
+			<ul>
+				<li><br><img src="Images/Cake.WEBP" ; id="Cake"/></li>
+				<li><br><img src="Images/Hat.WEBP" ; id="Hat"/></li>
+				<li><br><img src="Images/Gift.JPG" ; id="Gift"/></li>
+			</ul>
+		<aside></aside>
+		<footer>Bottom</footer>
+</body>
+</html>
