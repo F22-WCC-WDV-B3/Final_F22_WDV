@@ -1,0 +1,47 @@
+<!--Walters Index for final-->
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="style.css">         
+	<head>
+		<title>Birthday site</title>
+		<meta charset="utf-8">
+		<style>
+		
+		</style>
+	</head>
+	
+	<body>
+		
+		<main>
+		
+		<header> Walters Birthday site</header>
+		<nav> </nav>
+		<h1>My final Web Development Project</h1>
+		<ul>
+		<h2>celebritys that share my birth day</h2>
+			<li>Dave Chappelle</li>
+			<li>Mike Huckabee</li>
+			<li>Alex O'Loughlin</li>
+		</ul>
+		<h2>my birth day images</h2>
+		<ol>
+			<li><img src="images/ring.jpg" height="200" width="150"></img></li>
+			<li><img src="images/ithinkthatsabar.jpg" height="200" width="250"></img></li>
+			<li><img src="images/soccar.png" height="200" width="150"></img></li>
+			<header> Walters
+			</header>
+				<nav>
+				</nav>
+				<div id ="name">
+				</div>
+				<div class ="name">  
+				</div>
+		</main> 
+		<aside>
+		</aside>
+	</body>
+	
+	<footer>
+	
+	</footer>
+</html>

@@ -1,0 +1,23 @@
+
+body { 
+		background-color: #7d0202;
+}
+
+footer { 
+		background-color: #217a39;
+}
+
+aside { 
+		background-color: #d1e2f0;
+		font-size: 30px
+}
+nav { 
+		background-color: #0b0666;
+		font-weight:bold;
+		
+}
+
+main { 
+		background-color: #b88912;
+}
+
