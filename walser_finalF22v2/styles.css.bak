@@ -1,0 +1,17 @@
+/* Walsers CSS Sheet */
+body	{background-color: #34ebde;	
+			
+		}
+nav		{background-color: #343434;
+			padding: 10px;
+}
+header	{background-color: #e6a232;
+			color: red;
+			border: 10px solid #eeeeee;
+			padding: 10px;
+			text-align: center;
+}
+footer	{background-color: #f90185;
+}
+aside	{background-color: #aaa010;
+}
