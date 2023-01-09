@@ -1,0 +1,52 @@
+<!-- Jenks Final HTML Doc -->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="styles.css">
+	</head>
+<body>
+	<header> Jenks Birthday Site </header>
+	<nav>
+	</nav>
+	<main>
+		<h1> Final WDV Project
+		</h1>
+		<ul>
+			<a href="https://www.famousbirthdays.com/people/ozzy-osbourne.html"> <li>Ozzy Osborn</li> </a>
+			<a href="https://www.famousbirthdays.com/people/brendan-fraser.html"> <li>Brendan Fraser</li> </a>
+			<a href="https://www.famousbirthdays.com/people/tiffany-haddish.html"> <li>Tiffany Haddish</li> </a>
+		</ul>
+		<ul>
+			<li>Coffee</li>
+			<li>Tea</li>
+			<li>Milk</li>  
+			<li>ya</li>  
+			<li>mama</li>
+		</ul>
+		
+		<p>101,000 people was the biggest crowd ever to attend a game at Los Angeles for the colorful Notre Dame-U.S.C. series and 
+		rivaled the huge throng that saw the Trojan-Irish game in Chicago in 1929</P>
+		<img src="images/stadium.jpg" alt="The Los Angeles Memorial Coliseum is 
+		shown when 101,000 persons gathered there to watch the Southern 
+		California Football Team defeat the Notre Dame, 13 to 0, Dec. 3, 1938" width="50%" height="50%">
+		
+		
+		<p>Surgeons at the Groote Shuur Hospital in Cape Town, South Africa, 
+		led by Dr. Christiaan Barnard, perform the first human heart transplant.</P>
+		<img src="images/first_heart.jpg" alt="1967 South Africa, First Heart Transplant" width="50%" height="50%">
+
+		<p>Police arrested some 800 students at the University of California at Berkeley, one day after the students stormed 
+		the administration building and staged a massive sit-in</P>
+		<img src="images/sit_in.jpg" alt="Protestors at Berkely laughing in the hallway during the sit in" width="50%" height="50%">
+		<img src="images/sit_in2.jpg" alt="A protestor being arrested shortly following the sit in" width="50%" height="50%">
+
+	</main>
+	<aside>
+	</aside>
+	<footer>
+	</footer>
+</body>
+</html>
