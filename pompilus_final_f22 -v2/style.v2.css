@@ -1,0 +1,17 @@
+/* smiths Final CSS Sheet */
+
+body {
+ background-color: green;	
+}
+
+header {
+	color: red;
+	text-align: center;
+}
+
+main {
+	background-color: yellow;
+	color: blue;
+}
+
+
