@@ -1,0 +1,24 @@
+/* Ryley Final CSS */
+body {background-color: #00ffb7;} 
+
+#wapper {background-color: #000000;}
+
+#wrapper {background-color: #ff0000}
+
+#bob {background-color: #ffffff;}
+
+h2 {color: #00ffb7;}
+
+h1 {background-color: #000000;
+	color: #00ffb7;
+	width: 450px;}
+h3 {color: #00ffb7;}
+ul {color: #00ffb7;}
+
+ol {color: #00ffb7;}
+
+footer {background-color: #0000ff;} 
+
+nav {background-color: #FFC0CB;
+	 text-decoration: none;
+	 color: #FF10F0;}

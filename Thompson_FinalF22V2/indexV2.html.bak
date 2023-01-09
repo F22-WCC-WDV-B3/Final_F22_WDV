@@ -1,0 +1,54 @@
+<!--Ryley HTML Final-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<meta charset="utf-8">
+<link href="stylesV2.css" rel="stylesheet"
+<body>
+	<header>
+		<h1>Ryley Thompson Birthday Site</h1>
+	</header>
+	
+	<nav>
+	<a href="index.html">Home</a>&nbsp &nbsp
+	</nav>
+	<div id="wapper">
+		<main>
+			<h2>My Final Web Development Project</h2>
+			<div id="wrapper">
+			<h2>These are some people that share a birthday with me</h2>
+			<ul>
+				<li>Barack Obama</li>
+				<li>Helen Kane</li>
+				<li>Queen Elizabeth</li>
+			</ul>
+			<ol>
+				<li>Champagne Was Invented</li>
+				<li>Lizzie Borden Murders</li>
+				<li>U.S Purchases Virgin Islands</li>
+				<li>Oldest Human Died At 122 </li>
+				<li>The Revenue Cutter Service Was Founded</li>
+			</ol>
+			</div>
+			<div id="bob">
+			<h2>My Birthday Images</h2>
+			<center><img src="images/betty boop.jpg" alt="Betty Boop">
+			<img src="images/lizze-borden.jpg" alt="Lizzie Borden">
+			<img src="images/queen.jpg" alt="Queen Elizabeth">
+			<img src="images/soldier-British.jpg" alt="British Soldier"></center>
+			</div>
+			
+		</main>
+	
+		<aside>
+		
+		</aside>
+	
+		<footer>
+			<h3>GG</h3>
+		</footer>
+		
+	</div>
+</body>
+</html>
