@@ -1,0 +1,35 @@
+/* Schilling Final CSS Sheet */
+body {
+	background-color: #ffe900;
+	text-align: center;
+}
+img { 
+	height: 400px;
+	width: 600px;
+	border: 1px solid black;
+}
+header { 
+	background-color: blue;
+}
+main { 
+	background-color: red;
+}
+aside {
+	background-color: #23e6e7;
+}
+nav { 
+	background-color: #1a7e78;
+}
+nav a {
+	text-decoration: none;
+}
+ul, ol { 
+	text-align: left;
+}
+h1 {
+	color: #420420;
+}
+footer {
+	font-size: small;
+	background-color: #e567c9;
+}
