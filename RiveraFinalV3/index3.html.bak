@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="stylesv3.css">
+</head>
+
+
+<body>
+
+	Antony (Tony) Rivera<br>
+	<img src="images/UngodlyStudios.png" alt="UngodlyStudiosLogo" >
+	<header>
+		<h1>My Final Web Development Project</h1>
+	</header>
+	
+	
+	<nav>
+		<a href="index2.html">Home</a>
+	</nav>
+	<br><br>
+	<div class="wrapper">
+	<br><br><br><br>
+	<div class="leftside">
+	<main>
+		<h2>Birthday: May 24th 2006</h2>
+		<ul>
+			<li>Queen Victoria 1819</li>
+			<li>Bob Dylan 1941</li>
+			<li>Tommy Chong (Thomas B. Kin Chong) 1938</li>
+		</ul>
+		<br>
+		<ol>
+			<li>A large fire breaks out at Atatürk International Airport in Istanbul, Turkey, forcing the suspension of air traffic</li>
+			<li> former soldiers and government troops clash in East Timor, leading to at least two deaths in Dili. <br>Australians evacuate as violence escalates</li>
+			<li>John Wesley forms the Methodist Church</li>
+			<li>Central Daily News, one of the longest running chinese newspapers, announces the day its gonna end</li>
+			<li>SOS Rihana held the #1 song spot</li>
+		</ol>
+		
+		
+	</main>
+	</div>
+	<aside>
+		<h2>Birthday Pictures</h2><br>
+		<img src="images/bobdylan.png" alt="picture of Bob Dylan"><br>
+		<img src="images/tommychong.jpg" alt="picture of Tommy Chong"><br>
+		<img src="images/soldiers.jpg" alt="Soldiers being sent into East Timor"><br><br>
+	</aside>
+	
+	
+	<footer>
+	
+	</footer>
+</body>
+</div>
+
+</html>
