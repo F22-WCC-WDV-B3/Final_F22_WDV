@@ -1,0 +1,31 @@
+/* Willis Final CSS sheet */
+
+body{ 
+	background-color: #FF0000;
+}
+nav { 	text-align: center;
+		font-weight: bold;
+		font-size:5em; padding-top: 0px;
+		text-decoration: none;
+		border-top-width: 5em;
+		height: 30px;
+		background-color: #000000; 
+		}
+
+nav a { text-decoration: italic;
+		color: #ffffff; }
+		
+img {
+	width: 300px; 
+	border: 2px solid black; 
+	padding-top: 0px; 
+	margin-left: 0px; }
+	
+footer { text-align: center; }
+H1{ text-align: center;}
+ul{ text-align: center;
+	list-style-type: none;}
+ol{ list-style-type: none;
+	text-align: center;}
+
+
