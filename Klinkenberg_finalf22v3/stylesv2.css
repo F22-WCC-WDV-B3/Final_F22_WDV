@@ -1,0 +1,25 @@
+/* Klinkenberg FINAL CSS SHEET 2*/
+
+
+
+header { background-color: #6ecaff ; }
+
+main { background-color: #717696 ; }
+
+aside { background-color: #bf917e ; 
+		text-align: right ; 
+		color: #75736c ; }
+
+footer { background-color: #9e8f5f ; 
+		 text-align: center ; }
+
+div { border: 5px solid #d4d2c5 ; 
+	  margin: 5% ; }
+
+body { background-color: #97b89f ; }
+
+h2, h3 { text-decoration: underline ; }
+
+
+
+.img { text-align: left ; } 
