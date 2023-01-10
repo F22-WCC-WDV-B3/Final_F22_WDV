@@ -1,0 +1,22 @@
+/*Walters css for final*/
+
+body { 
+		background-color: #7d0202;
+}
+#Wrapper { padding: 50;
+margin: 50 ;
+border: 50, solid, #000000;
+}
+
+main {
+padding: 50;
+margin: 50 ;
+border: 50, solid, #000000;
+}
+
+h1 {
+padding: 50;
+margin: 50 ;
+border: 50, solid, #000000;
+text-align: center;
+}
