@@ -1,0 +1,59 @@
+<!-- Blal Final HTML doc -->
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title></title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="stylesv3.css">
+	</head>
+	<body>
+	
+		<header>Muhammad Blal Birthday Site</header>
+		<nav>
+			<a href="index.html">About Me</a> &nbsp
+			<a href="contactus.html">Contact Us</a> &nbsp
+			<a href="manufacturing.html">Music I Listen To</a> &nbsp
+			<a href="solargeneration.html">My Birthday</a> &nbsp
+			<a href="login.html">My Accomplishments</a> &nbsp
+		</nav>
+		<main>
+		<div id="bottom">
+			<h1>My Final Web Development Project</h1>
+			<ul>
+				<li>Adam Sandler</li>
+				<li>Colonel Sanders</li>
+				<li>Akshay Kumar</li>
+			</ul>
+			<ol>
+				<li>Mariah Carey had the number one song</li>
+				<li>Hurricane Katrina took place</li>
+				<li>National Teddy Bear Day</li>
+				<li>An Unfinished Life movie came out</li>
+				<li>The Man movie came out</li>
+			</ol>
+			<h1>My Birthday Images</h1>
+			<img src="adamsandler.jpg" alt="AS" width="225" height="160"> <br>
+			<img src="kfc.jpg" alt="KF" width="225" height="160"> <br>
+			<img src="virgosign.jpg" alt="VS" width="225" height="160"> <br>
+		</div>
+		</main>
+		<aside></aside>
+		
+			<h3>Contact Me</h3>
+	
+			<form method="get">
+				<label>First Name: <input type="text" name="FN" id="FN"></label><br><br>
+				<label>Last Name: <input type="text" name="LN" id="LN"></label><br><br>
+				<label>E-mail: <input type="text" name="email" id="email"></label><br><br>
+				<label for="comments">Comments: </label><br>
+				<textarea name="comments" id="comments" rows="4" columns="50">
+				</textarea> <br><br>
+				<input type="submit" value="Contact">
+				<input type="reset">
+				<br><br><br>
+				
+		<footer>Bottom</footer>
+		
+	</body>
+</html>
