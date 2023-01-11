@@ -1,0 +1,50 @@
+<!-- smiths Final html doc -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+ <head>
+  <title></title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.v3.css">
+ </head>
+ 
+ <body>
+	<header>smith pompilus</header>
+	<nav></nav>
+	<main>
+		<h1>famous birthday same as my</h1>
+			<ul>
+				<li>amber rose</li>
+				<li>kane brown</li>
+				<li>glen powell</li>
+			</ul>
+			
+		<h2>famous things on my birthday</h2>
+			<ol>
+				<li>Liz Truss resigns, U.K. leadership fight begins </li>
+				<li>U.S.: Iranians are in Crimea to help Russia attack Ukraine</li>
+				<li>Appeals court says Lindsey Graham must testify in Georgia election inquiry </li>
+				<li>Ukraine urges energy conservation as Russia knocks out power</li>
+				<li>Courts block 2 challenges to Biden's student debt relief plan</li>
+			</ol>
+		
+		<h2>smith birthday images<h2>
+			<div>
+				<ol>
+					<img src="images/letter.jfif" width="100" height="75" alt="jim dad">letter<br>
+					<img src="images/sky.jfif" width="100" height="75" alt="jim dad">sky<br>
+					<img src="images/skyshower.jfif" width="100" height="75" alt="jim dad">skyshower
+				</ol>
+			</div>
+	</main>
+	
+	<aside> 
+		<img src="images/j4.jfif" width="100" height="75" alt="jim dad">jordan 4's
+	</aside>
+	
+	<footer>check out my youtube channel</footer>
+ </body>
+ 
+</html>
