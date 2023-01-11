@@ -1,0 +1,89 @@
+/* each of 5 bsections have different color, each content should havve content, least 10 different elements */ 
+body {
+	background-color: #000000;
+	color: white;
+	margin-top: 50px;
+	border-style: solid;
+	margin-left: 20px;
+	padding: 10px 10px 10px;
+}
+
+h2 {	text-style: bold; }
+
+header {	background-color: #4d4d4d;  
+			padding: 4px; 
+			text-align: center;
+			max-width: 800px;
+			margin-left: 500px;
+}
+			
+
+main {	font-family: "Times New Roman", Times, serif;
+		margin-left: 20px;
+}
+
+nav {	background-color: #949494;
+		text-align: center;
+		max-width: 400px;
+		margin-left: 700px;
+}
+
+aside {	margin-left: 900px;
+		margin-top: 0; }
+		
+img {	border-style: solid;
+		border-color: #4f0009; }
+		
+form {
+  border: 4px solid #f1f1f1;
+  float: left;
+  margin-top: 500px;
+  margin-left: -590px; }
+
+/* Add some padding and a grey background color to containers */
+.container {
+  color: black;
+  padding: 20px;
+  background-color: #f1f1f1;
+}
+
+/* Style the input elements and the submit button */
+input[type=text], input[type=submit] {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Add margins to the checkbox */
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+/* Style the submit button */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+}
+
+footer {	text-style: italic;
+			text-align: center;
+			background-color: #542a00; }
+		
+.leftside {	max-width: 600px;
+			margin-top: 60px;
+			margin-left: 80px;
+			float: left;
+			border-style: solid;
+			border-color: #00414d;
+}
+
+.wrapper {	background-color: #00203b;
+		

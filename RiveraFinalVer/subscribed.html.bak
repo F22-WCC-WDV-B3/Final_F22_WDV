@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<div class="wrapper">
+<body>
+	<header>
+	
+	</header>
+	
+	
+	<nav>
+	
+	</nav>
+	
+	
+	<main>
+		<h1>You have Subcribed!</h1>
+		<a href="index.html">Go Home</a>
+	</main>
+	
+	
+	<aside>
+	
+	</aside>
+	
+	
+	<footer>
+	
+	</footer>
+</body>
+</div>
+
+</html>
