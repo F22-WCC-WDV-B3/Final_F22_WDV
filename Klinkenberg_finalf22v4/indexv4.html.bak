@@ -1,0 +1,58 @@
+<!-- Klinkenberg FINAL HTML DOC 4-->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		<title> Klinkenberg Final </title>
+	<meta charset="utf-8">
+	<link href="stylesv4.css" rel="stylesheet">
+	</head>
+	
+	
+	<body>
+	<div id="wrapper">
+		<header>Birthday Site
+			<h2>December 29th 2005</h2></header>
+		
+		<main>
+		<h1>My Final Project</h1>
+		
+		<h2>People born on December 29th</h2>
+		<ul>
+			<li>Dace Mckean</li><br>
+			<li>Mekhi Phifer</li><br>
+			<li>Viveca Lindfors</li><br>
+		</ul>
+		<h2> Important events that happened on december 29 2005</h2>
+		<ol>
+			<li>A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself.</li><br>
+			<li>Chinese state media announce that the country's government will abolish its national agricultural tax starting January 1, 2006</li><br>
+			<li>At least 30 people are killed following a large landslide in a village close to Sanaa in Yemen</li><br>
+			<li>A Scottish human rights worker, Kate Burton, and her parents have been kidnapped in Gaza. Palestinian authorities have stepped up work to find them.</li><br>
+			<li>The Associated Press reports story of Farris Hassan, a young Iraqi-American teenager who travelled to Iraq without informing<br> his parents and was picked up by the 101st Airborne.</li>
+		</ol>
+		
+		<h2>My Birthday Images<h2>
+		<div class="img">
+			<img src="imgs/celloday.png" alt="International cello day" width="304.615384615" height="254.615384615"> <br> <br>
+			<img src="imgs/red-rooster-fire.jpg" alt="year of the chicken" width="312.5" height="249.375"> <br> <br>
+			<img src="imgs/moon.jpg" alt="Waning Crescent Moon" width="272.727272727" height="272.727272727"> <br> <br>
+		</div>
+		</main>
+		
+		<aside>
+			<a href="formsv1.html">Form</a>
+		</aside>
+		
+		<footer>footer</footer>
+		
+	</div>
+	</body>
+	
+	
+	
+	
+</html>

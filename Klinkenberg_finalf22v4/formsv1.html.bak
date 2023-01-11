@@ -1,0 +1,41 @@
+<!-- Klinkenberg FINAL HTML DOC 4-->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		<title> Klinkenberg Final </title>
+	<meta charset="utf-8">
+	<link href="stylesv4.css" rel="stylesheet">
+	</head>
+	
+	
+	<body>
+	<div id="wrapper">
+		<header>Birthday Site</header>
+		
+		<main>
+			<label for="fname">Name:</label><br>
+			<input type="text" id="fname" name="fname" placeholder="First name, Last Name"><br>
+			<label for="fname">Email:</label><br>
+			<input type="text" id="fname" name="fname" placeholder="Your Email"><br>
+			<br>
+			<label for="fname">Wish me a Happy Birthday:</label><br>
+			<input type="submit" value="Submit">
+		</main>
+		
+		<aside>
+			<a href="indexv4.html">Home</a>
+		</aside>
+		
+		<footer>footer</footer>
+		
+	</div>
+	</body>
+	
+	
+	
+	
+</html>
