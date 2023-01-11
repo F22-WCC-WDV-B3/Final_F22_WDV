@@ -1,0 +1,57 @@
+/* Schilling Final CSS Sheet */
+body {
+	background-color: #ffe900;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: 10px solid black;
+}
+img { 
+	height: 400px;
+	width: 600px;
+	border: 5px solid black;
+}
+header { 
+	background-color: blue;
+	font-style: italic;
+}
+main { 
+	background-color: red;
+}
+aside {
+	background-color: #23e6e7;
+}
+nav { 
+	background-color: #1a7e78;
+}
+nav a {
+	text-decoration: none;
+}
+ul, ol { 
+	text-align: left;
+	padding-left: 50em;
+	padding-right: 40em;
+}
+li { 
+	border: 1px solid black;
+}
+.borderremove {
+	border-top: none;
+	border-bottom: none;
+}
+.removebottom { 
+	border-bottom: none;
+}
+.removetop {
+	border-top: none;
+}
+span {
+	border: 1px solid black;
+}
+h1 {
+	color: #420420;
+}
+footer {
+	font-size: 5em;
+	background-color: #e567c9;
+}
