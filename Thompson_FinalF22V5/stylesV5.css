@@ -1,0 +1,43 @@
+/* Ryley Final CSS */
+body {background-color: #00ffb7;} 
+
+#wapper {background-color: #000000;}
+
+#wrapper {background-color: #ff0000}
+
+#bob {background-color: #ffffff;}
+
+h2 {color: #00ffb7;}
+
+h1 {background-color: #000000;
+	color: #00ffb7;
+	margin-left: 650px;
+	margin-right: 650px;
+	text-align: center;}
+h3 {color: #00ffb7;}
+ul {color: #00ffb7;
+	list-style-type: none;
+	text-align: left;
+	padding-right: 109em;}
+
+ol {color: #00ffb7;
+	list-style-type: none;
+	text-align: left;
+	padding-right: 98em;}
+li {border: 1px solid black;}
+
+.borderremove {border-top: none;
+			  border-bottom: none;}
+.removebottom {border-bottom: none;}
+.removetop {border-top: none;}
+footer {background-color: #000000;} 
+
+nav {background-color: #FFC0CB;
+	 text-align: center;
+	 margin-left: 810px;
+	 margin-right: 810px;
+	 height: 20px;}
+
+nav a {text-decoration: none;
+	 color: #FF10F0;}
+img {border: 10px solid black;}
