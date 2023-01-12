@@ -1,0 +1,28 @@
+<html lang="en">
+<link href="stylesFinalV4.css" rel="stylesheet">
+<head>
+	<title>Form</title>
+	<meta charset="utf-8">
+</head>
+<html>
+<body>
+	<header>Sign Up To Our News Letter</header>
+<div id="wrapper">
+	<nav>
+		<a href="indexFinalV4.html">Fun Facts</a>
+		<a href="formFinalV4.html">Contact</a>
+		<a href="">Link 3</a>
+		<a href="">Link 4</a>
+	</nav>
+	<main>
+	<div id="forms">
+	<form method="post"> Email : <input type="text" name="email" id="email"> <br> <input type="reset"></form>
+	<form method="post"> Phone : <input type="number" name="phone" id="phone"> <br> <input type="reset"></form>
+	<h4>Do you like forms?</h4>
+	<input type="checkbox" name="yes" id="form" value="yes">Yes</input>
+	<input type="checkbox" name="no" id="form" value="no">no</input>
+	</div>
+	</main>
+<div>
+</body>
+</html>
